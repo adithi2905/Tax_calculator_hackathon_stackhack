@@ -61,8 +61,6 @@ else{
 	}
 	else
 	{
-	if(filled.equalsIgnoreCase("both"))
-	{
 		long agi=atxu.getAgi();
 		long standard=atxu.getStandardised();
 		long itemized=atxu.getItemized();
@@ -85,7 +83,7 @@ else{
 		}
 	}
 	}
-}
+
 %>
 <br><br>
 
