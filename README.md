@@ -4,5 +4,5 @@
 # Users can view their tax details when they sign in.
 # Users can also update details/ modify existing details to calculate new tax.
 # Run on Internet Explorer. Select tomcat server as it is not specified in the maven pom.xml.
-# JDBC Connector is added in the maven pom.xml file
+# JDBC Connector jar is added in the maven pom.xml file
 
